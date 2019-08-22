@@ -10,9 +10,9 @@ Finder => Open with java webstart
 	Geneset: h.all.v7.0.symbols.gmt
 	Phenotypelabels: 	Create on the fly:
 			CLASS-A		CLASS-B
-			NORMAL1	SMOC1
-			NORMAL2	SMOC2
-			NORMAL3	SMOC3
+			NORMAL1		SMOC1
+			NORMAL2		SMOC2
+			NORMAL3		SMOC3
 		Apply to dataset GSEAinput
 	 
 	ChIP platform: Mouse_ENSEMBL_Gene_ID_MSigDB.v7.0.chip 
