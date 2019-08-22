@@ -1,1 +1,1 @@
-Go to Funcann.txt
+Go to Funcann.txt or FuncannGSEA.txt
