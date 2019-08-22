@@ -3,3 +3,20 @@ Downloads
 GSEA v4.0.0 Java Web Start(all platforms) ===> 1GB ==> Launch
 Finder => Open with java webstart
 
+1. Get data from https://github.com/CBC-KAUST/FuncAnnKAUST2019/blob/master/GSEAinput.txt
+2. GSEA window Load data => GSEAinput.txt
+3. Run GSEA: 	
+	Expression dataset = loaded GSEAinput.txt
+	Geneset: h.all.v7.0.symbols.gmt
+	Phenotypelabels: 	Create on the fly:
+			CLASS-A		CLASS-B
+			NORMAL1	SMOC1
+			NORMAL2	SMOC2
+			NORMAL3	SMOC3
+		Apply to dataset GSEAinput
+	 
+	ChIP platform: Mouse_ENSEMBL_Gene_ID_MSigDB.v7.0.chip 
+4. Run
+
+5. Click on success -> HTML output
+
