@@ -1,2 +1,16 @@
 https://david.ncifcrf.gov
 Cyberduck get the diffexp.txt and open in excel
+
+Separate up-regulated and downregulated genes by fold change 0.5
+select sheet ->  format -> filter -> 3rd column > greaterthan0.5
+
+
+DAVID -> FunctionalAnnotation -> upload list -> EnsemblGeneid
+
+Module1: functional annotation -> open in window
+		a. clustering -> At 0.5 cutoff 1024 genes =>  622 DAVID ids => 78 clusters ordered by Enirchment score (Gene-Enrichment: A set of user's input genes is highly associated with certain terms, which is statistically measured by Fisher Exact in DAVID system.	
+); 2D view; 
+		b. chart: No clustering (Mainly for processes/pathways instead of individual functions)
+		c. table: All genes participating in different functional terms.
+
+Module2: Function classisification (Max 3000 genes).
