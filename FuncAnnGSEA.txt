@@ -1,3 +1,5 @@
 http://software.broadinstitute.org/gsea/index.jsp
 Downloads
 GSEA v4.0.0 Java Web Start(all platforms) ===> 1GB ==> Launch
+Finder => Open with java webstart
+
